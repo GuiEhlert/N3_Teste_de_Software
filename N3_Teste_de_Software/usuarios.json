@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "tipo": "bikcraft",
+  "produto": "nimbus",
+  "nome": "Guilherme",
+  "sobrenome": "Ehlert",
+  "cpf": "000.000.000-00",
+  "email": "Guilherme@email.com",
+  "cep": "89256-000",
+  "numero": "123",
+  "logradouro": "Rua Exemplo",
+  "bairro": "Centro",
+  "cidade": "Jaraguá do Sul",
+  "estado": "SC"
+}
